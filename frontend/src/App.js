@@ -641,7 +641,7 @@ function Contact() {
           </div>
         </div>
 
-        {/* RIGHT SIDE */}
+        {/* RIGHT SIDE  */}
         <div className="bg-purple-950/20 rounded-2xl border border-purple-900/25 p-7">
 
           {sent ? (
