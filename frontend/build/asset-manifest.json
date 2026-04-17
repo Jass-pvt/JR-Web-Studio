@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/webcraft-studio/static/css/main.802162d2.css",
-    "main.js": "/webcraft-studio/static/js/main.cf90586f.js",
+    "main.css": "/webcraft-studio/static/css/main.a096a5b1.css",
+    "main.js": "/webcraft-studio/static/js/main.8b0da0d4.js",
     "index.html": "/webcraft-studio/index.html",
-    "main.802162d2.css.map": "/webcraft-studio/static/css/main.802162d2.css.map",
-    "main.cf90586f.js.map": "/webcraft-studio/static/js/main.cf90586f.js.map"
+    "main.a096a5b1.css.map": "/webcraft-studio/static/css/main.a096a5b1.css.map",
+    "main.8b0da0d4.js.map": "/webcraft-studio/static/js/main.8b0da0d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.802162d2.css",
-    "static/js/main.cf90586f.js"
+    "static/css/main.a096a5b1.css",
+    "static/js/main.8b0da0d4.js"
   ]
 }
